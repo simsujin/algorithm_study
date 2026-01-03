@@ -8,13 +8,26 @@
 ![Solved.ac](https://img.shields.io/badge/solved.ac-사용중-17CE3A?style=flat-square)
 ![BOJ](https://img.shields.io/badge/BOJ-Algorithm-blue?style=flat-square)
 
+<br><br>
 
 # 📘 알고리즘 코딩테스트 스터디 (Python & Java)
 
 > 코딩테스트 대비를 목표로 **Python과 Java를 병행 학습**하며  
 > 문제 해결력 · 자료구조 · 알고리즘 사고력을 체계적으로 정리하는 스터디 레포지토리입니다.
 
----
+<br><br><br>
+
+## 🧾 문제 풀이 목록
+
+> 아래 표는 스크립트 실행 시 자동으로 최신 풀이가 위로 추가됩니다.
+
+<!-- AUTO:PROBLEMS:START -->
+| 날짜 | 플랫폼 | 문제 | 유형 | Python | Java |
+|---|---|---|---|---|---|
+<!-- AUTO:PROBLEMS:END -->
+
+
+<br><br><br>
 
 ## 🎯 스터디 목표
 
@@ -23,7 +36,7 @@
 - 문제 접근 방식과 사고 과정을 기록하여 **재사용 가능한 노트화**
 - 기업 코딩테스트 및 알고리즘 면접 대비
 
----
+<br><br>
 
 ## 🛠️ 사용 언어
 
@@ -32,7 +45,7 @@
 | 🐍 Python | 빠른 구현, 로직 중심 문제 풀이 |
 | ☕ Java | 객체지향 사고, 안정적인 구조 설계 |
 
----
+<br><br>
 
 ## 📂 디렉토리 구조
     algorithm-study/
