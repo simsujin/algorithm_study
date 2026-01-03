@@ -1,6 +1,14 @@
 # algorithm_study
 자료구조와 알고리즘 문제를 중심으로 문제해결 사고과정과 시간 공간 복잡도를 정리한 저장소
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=java&logoColor=white)
+![Algorithm](https://img.shields.io/badge/Algorithm-Study-success?style=flat-square)
+
+![Solved.ac](https://img.shields.io/badge/solved.ac-사용중-17CE3A?style=flat-square)
+![BOJ](https://img.shields.io/badge/BOJ-Algorithm-blue?style=flat-square)
+
+
 # 📘 알고리즘 코딩테스트 스터디 (Python & Java)
 
 > 코딩테스트 대비를 목표로 **Python과 Java를 병행 학습**하며  
@@ -27,4 +35,32 @@
 ---
 
 ## 📂 디렉토리 구조
+algorithm-study/
+│
+├─ python/
+│ ├─ brute_force/
+│ ├─ implementation/
+│ ├─ data_structure/
+│ ├─ dfs_bfs/
+│ ├─ greedy/
+│ ├─ dynamic_programming/
+│ └─ graph/
+│
+├─ java/
+│ ├─ brute_force/
+│ ├─ implementation/
+│ ├─ data_structure/
+│ ├─ dfs_bfs/
+│ ├─ greedy/
+│ ├─ dynamic_programming/
+│ └─ graph/
+│
+├─ notes/
+│ ├─ python_tips.md
+│ ├─ java_tips.md
+│ └─ algorithm_summary.md
+│
+└─ README.md
+
+
 
